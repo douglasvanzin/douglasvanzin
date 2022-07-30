@@ -20,22 +20,7 @@
 
 - 📫 You can contact me by e-mail: douglasvanzin@hotmail.com or douglas.vanzin@escola.pr.gov.br
 
-
-<!--
-**douglasvanzin/douglasvanzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started: 
-
-- 🔭 I’m currently working on as teacher of Chemistry, Robotics and Computational Thinking at Secretaria de Estado da Educação do Paraná (SEED/PR), whith hight school classes. 
-
-- 🌱 I'm also a PhD studant of computational chemistry at Universidade Estadual de Maringá, researching photochemical reactions and drug delivery system for photodynamic therapy. 
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
