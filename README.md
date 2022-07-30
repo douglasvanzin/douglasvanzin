@@ -1,16 +1,16 @@
-Olá 👋
+### Olá, meu nome é **Douglas Vanzin** 👋
 
-🔭 Atualmente atuo como professor de Química, Robótica e Pensamento Computacional na Secretaria de Estado da Educação do Paraná (SEED/PR), com turmas de ensino médio.
+- 🔭 Atualmente atuo como professor de Química, Robótica e Pensamento Computacional na Secretaria de Estado da Educação do Paraná (SEED/PR), com turmas de ensino médio.
 
-🌱 Estou aprendendo JavaScript, HTML e CSS para ensinar um pouco de programação, no componente curricular Pensamento Computacional, para alunos do ensino médio. Também estou aprendendo Robótica com a placa Arduino IDE para atuar como professor em Robótica de Primeiros Passos e Robótica Educacional.
+- 🌱 Estou aprendendo JavaScript, HTML e CSS para ensinar um pouco de programação, no componente curricular Pensamento Computacional, para alunos do ensino médio. Também estou aprendendo Robótica com a placa Arduino IDE para atuar como professor em Robótica de Primeiros Passos e Robótica Educacional.
 
-🌱 Sou mestre e estou iniciando o doutorado na área de Química Computacional, pela Universidade Estadual de Maringá, pesquisando reações fotoquímicas e sistema de liberação de fármacos para Terapia Fotodinâmica (TFD).
+- 🌱 Sou mestre e estou iniciando o doutorado na área de Química Computacional, pela Universidade Estadual de Maringá, pesquisando reações fotoquímicas e sistema de liberação de fármacos para Terapia Fotodinâmica (TFD).
 
-📫 Você pode entrar em contato comigo pelo e-mail: douglasvanzin@hotmail.com ou douglas.vanzin@escola.pr.gov.br
+- 📫 Você pode entrar em contato comigo pelo e-mail: douglasvanzin@hotmail.com ou douglas.vanzin@escola.pr.gov.br
 
 
 
-### Hi there 👋
+### Hi there, my mane is **Douglas Vanzin** 👋
 
 - 🔭 I’m currently working on as teacher of Chemistry, Robotics and Computational Thinking at Secretaria de Estado da Educação do Paraná (SEED/PR), whith hight school classes. 
 
