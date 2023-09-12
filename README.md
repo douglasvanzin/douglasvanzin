@@ -1,4 +1,4 @@
-### Olá, meu nome é **Douglas Vanzin** 👋
+### Olá, meu nome é **Douglas Vanzin** 👋 
 
 - 🔭 Atualmente atuo como professor de Química, Robótica e Pensamento Computacional na Secretaria de Estado da Educação do Paraná (SEED/PR), com turmas de ensino médio.
 
